@@ -1,2 +1,4 @@
 # hsr-ai-investment
-starrail ai investment for Currency war event
+Play TFT using LLM to plan smarter strategies, optimize team compositions, and make better real-time decisions.
+
+
